@@ -827,6 +827,12 @@
               "description": "Ellipsis provides AI-powered code reviews and automated bug fixes for GitHub repositories, offering features like style guide enforcement, code generation, and automated testing while maintaining SOC 2 Type 1 compliance and secure processing without data retention.",
               "logo": "",
               "link": "https://www.ellipsis.dev/"
+            },
+            {
+              "name": "Codeflash",
+              "description": "Codeflash is a CI tool that keeps your Python code performant by using AI to automatically find the most optimized version of your code through benchmarking and verifying the new code for correctness.",
+              "logo": "./assets/codeflash.png",
+              "link": "https://www.codeflash.ai/"
             }
           ]
         }
